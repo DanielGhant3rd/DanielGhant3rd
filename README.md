@@ -2,11 +2,15 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Home Lab](https://github.com/DanielGhant3rd/Active-Directory-Lab/tree/main)
 
 <h2> - Certifications</h2>
 
-- Google IT Support Certificate (https://google.com)
+- Qualys CyberSecurity Asset Management Certificate (CSAM) (https://imgur.com/IBw5L5S)
+
+- Qualys Vulnerability Detection Management and Response Certificate (VDMR) (https://imgur.com/a/sAi5KuR)
+  
+- FEMA National Incident Management Systems (NIMS) (https://google.com)
 
 <h2>📺 Popular YouTube Videos</h2>
 
