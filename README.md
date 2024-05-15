@@ -4,7 +4,7 @@
 
 - [Active Directory Home Lab](https://github.com/DanielGhant3rd/Active-Directory-Lab/tree/main)
 
-<h2> - Certifications</h2>
+<h2> - Certifications and Certificates</h2>
 
 - Qualys CyberSecurity Asset Management Certificate (CSAM) (https://imgur.com/IBw5L5S)
 
