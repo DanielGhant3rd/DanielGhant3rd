@@ -12,6 +12,8 @@
   
 - FEMA National Incident Management Systems (NIMS) (https://google.com)
 
+- Coursera Microsoft Windows Defender and Firewalls (https://imgur.com/a/BpvTgFp)
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Tuturial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
