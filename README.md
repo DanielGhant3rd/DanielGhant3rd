@@ -14,9 +14,9 @@
 
 - Coursera Microsoft Windows Defender and Firewalls (https://imgur.com/a/BpvTgFp)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 AWS and Azure Cloud Projects</h2>
 
-- [Tuturial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Building A Daily Task Scheduler](https://partyrock.aws/u/DanielG26/7rxMYkNtw/Daily-Inspirations%3A-A-Devotional-Journey)
 
 
 <h2> 🤳 Connect with me:</h2>
