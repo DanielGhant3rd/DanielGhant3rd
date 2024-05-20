@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! </h1>
+<h1>Hi, I'm Daniel Ghant III! </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
