@@ -21,30 +21,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-version: 2.1
 
-jobs:
-  deploy:
-    docker:
-      - image: cimg/aws:2023.04.1
-    steps:
-      - checkout
-      - run:
-          name: Lets deploy thsi application
-          command: |
-            ls
-            aws s3 sync . s3://$AWS_S3_BUCKET/
-
-
-
-workflows:
-  Production:
-    jobs:
-      - deploy:
-          filters:
-            branches:
-              only: main
-  
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
