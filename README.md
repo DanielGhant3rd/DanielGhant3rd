@@ -8,7 +8,7 @@
 
 - [Building A Daily Task Scheduler](https://partyrock.aws/u/DanielG26/7rxMYkNtw/Daily-Inspirations%3A-A-Devotional-Journey)
 
-- [Azure Partner linked through Federation. Okta Primary IDP(https://github.com/DanielGhant3rd/-1stWeeksofCloudOps)
+- [Azure Partner linked through Federation. Okta Primary IDP](https://github.com/DanielGhant3rd/-1stWeeksofCloudOps)
 
 <h2> - Certifications and Certificates</h2>
 
