@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Azure Detection Lab](https://github.com/DanielGhant3rd/Active-Directory-Lab/tree/main)
+- [IAM Home Labs](https://github.com/DanielGhant3rd/Active-Directory-Lab/tree/main)
 
 <h2> - Certifications and Certificates</h2>
 
