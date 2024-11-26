@@ -1,6 +1,6 @@
 <h1>Hi, I'm Daniel Ghant III! </h1>
 
-<h2>👨‍💻 Cybersecurity and Cloud Projects:</h2>
+<h2>👨‍💻 IAM Security and Cloud Projects:</h2>
 
 - [IAM Home Labs](https://github.com/DanielGhant3rd/Active-Directory-Lab/tree/main)
 
@@ -22,7 +22,7 @@
 
 - Mastercard Cyber Security Job Simulation (https://imgur.com/a/qeImKVy)
 
-<h2>📺 AWS and Azure Cloud Projects</h2>
+<h2>📺 AWS Cloud Project</h2>
 
 - [Building A Daily Task Scheduler](https://partyrock.aws/u/DanielG26/7rxMYkNtw/Daily-Inspirations%3A-A-Devotional-Journey)
 
