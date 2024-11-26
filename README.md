@@ -4,6 +4,8 @@
 
 - [IAM Home Labs](https://github.com/DanielGhant3rd/Active-Directory-Lab/tree/main)
 
+- Security Implementations Creating & Automating Onboarding
+
 <h2> - Certifications and Certificates</h2>
 
 - Qualys CyberSecurity Asset Management Certificate (CSAM) (https://imgur.com/IBw5L5S)
