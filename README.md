@@ -33,7 +33,7 @@ http://www.daniel.ghant.3rd.s3-website.us-east-2.amazonaws.com
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/TheFuture_Dg3_
-[youtube]: https://www.youtube.com/c/joshmadakor
+[Favebook]: https://www.facebook.com/daniel.ghant?mibextid=LQQJ4d&mibextid=LQQJ4d
 [instagram]: https://www.instagram.com/__gthree
 [linkedin]: https://www.linkedin.com/in/danielghantiii?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
