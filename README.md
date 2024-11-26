@@ -34,7 +34,7 @@ http://www.daniel.ghant.3rd.s3-website.us-east-2.amazonaws.com
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/__gthree
 [linkedin]: https://www.linkedin.com/in/danielghantiii?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 <!--
