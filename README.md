@@ -4,7 +4,7 @@
 
 - [IAM Home Labs](https://github.com/DanielGhant3rd/Active-Directory-Lab/tree/main)
 
-- [Security Implementations Creating & Automating Onboarding](https://github.com/DanielGhant3rd/-1stWeeksofCloudOps)
+- [Security Implementations Creating & Automating New Hires Onboarding](https://github.com/DanielGhant3rd/-1stWeeksofCloudOps)
 
 <h2> - Certifications and Certificates</h2>
 
