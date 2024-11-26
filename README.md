@@ -1,10 +1,12 @@
 <h1>Hi, I'm Daniel Ghant III! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity and Cloud Projects:</h2>
 
 - [IAM Home Labs](https://github.com/DanielGhant3rd/Active-Directory-Lab/tree/main)
 
 - [Security Implementations Creating & Automating New Hires Onboarding](https://github.com/DanielGhant3rd/-1stWeeksofCloudOps)
+
+- [Building A Daily Task Scheduler](https://partyrock.aws/u/DanielG26/7rxMYkNtw/Daily-Inspirations%3A-A-Devotional-Journey)
 
 <h2> - Certifications and Certificates</h2>
 
