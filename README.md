@@ -12,6 +12,8 @@
 
 <h2> - Certifications and Certificates</h2>
 
+- Fortinet Networking Fundamentals Certificate. (google.com)
+
 - Qualys CyberSecurity Asset Management Certificate (CSAM) (https://imgur.com/IBw5L5S)
 
 - Qualys Vulnerability Detection Management and Response Certificate (VDMR) (https://imgur.com/a/sAi5KuR)
