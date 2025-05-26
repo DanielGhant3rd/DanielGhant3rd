@@ -1,6 +1,6 @@
 <h1>Hi, I'm Daniel Ghant III! </h1>
 
-<h2>👨‍💻 IAM Security and Cloud Projects:</h2>
+<h2>👨‍💻 IAM Security Projects:</h2>
 
 - [IAM Home Labs](https://github.com/DanielGhant3rd/Active-Directory-Lab/tree/main)
 
