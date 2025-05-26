@@ -12,13 +12,13 @@
 
 <h2> - Certifications and Certificates</h2>
 
-- Fortinet Networking Fundamentals Certificate. (google.com)
+- Fortinet Networking Fundamentals Certificate
 
 - Qualys CyberSecurity Asset Management Certificate (CSAM) (https://imgur.com/IBw5L5S)
 
 - Qualys Vulnerability Detection Management and Response Certificate (VDMR) (https://imgur.com/a/sAi5KuR)
   
-- FEMA National Incident Management Systems (NIMS) (https://google.com)
+- FEMA National Incident Management Systems (NIMS) 
 
 - Coursera Microsoft Windows Defender and Firewalls (https://imgur.com/a/BpvTgFp)
 
